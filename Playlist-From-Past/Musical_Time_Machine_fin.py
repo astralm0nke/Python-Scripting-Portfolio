@@ -60,7 +60,7 @@ window.config(padx=25, pady=25, bg=BACKGROUND_COLOR)
 bck_img = PhotoImage(file='//persistence_dali.png')
 canvas = Canvas(width=700, height=650)
 background = canvas.create_image(350, 350, image=bck_img)
-prompt = canvas.create_text((355, 575), text='What day in the past would you like to listen to? (please format as YYYY-MM-DD):', fill='WHITE', font=('Times New Roman', 18, 'bold'))
+prompt = canvas.create_text((355, 575), text='What day in the past would you like to listen to? (Please format as YYYY-MM-DD):', fill='WHITE', font=('Times New Roman', 18, 'bold'))
 canvas.config(bg=BACKGROUND_COLOR, highlightthickness=0)
 canvas.grid(row=0, column=0, columnspan=2)
 
