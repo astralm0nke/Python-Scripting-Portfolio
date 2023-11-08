@@ -6,7 +6,7 @@ from spotipy.oauth2 import SpotifyOAuth
 BACKGROUND_COLOR = '#3394FF'
 
 #----------GET SONGS FROM BILLBOARD TOP 100----------
-def get_song():
+def make_playlist():
     billb_hot = requests.get(f'https://www.billboard.com/charts/hot-100/{date}/')
     html_file = billb_hot.content
     soup = BeautifulSoup(html_file, 'html.parser')
@@ -68,7 +68,7 @@ date_box = Entry(window, bg='white', relief=RAISED, textvariable=StringVar, widt
 date_box.grid(row=1, column=0)
 date = str(date_box)
 
-travel_button = Button(text='Create Playlist', command=get_song)
+travel_button = Button(text='Create Playlist', command=make_playlist)
 travel_button.config(width=25)
 travel_button.grid(row=1, column=1)
 
