@@ -17,7 +17,6 @@ def make_playlist():
     songs_list = [song.getText().strip() for song in songs]
 
 #----------SPOTIFY API AUTHENTICATION----------
-
     scope = 'playlist-modify-private'
     sp = spotipy.Spotify(
         auth_manager=SpotifyOAuth(
