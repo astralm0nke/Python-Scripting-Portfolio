@@ -28,7 +28,7 @@ class Player2():
         if aimove >=1 and aimove <=9 and GAME_BOARD[aimove] == '-':
             GAME_BOARD[aimove] = self.symbol
         else:
-            print('Computer Skipped Turn!!')
+            return self.computer_turn()
             
 #Functionality        
 def draw_board():
