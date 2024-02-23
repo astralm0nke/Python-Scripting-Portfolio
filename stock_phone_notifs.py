@@ -6,9 +6,9 @@ COMPANY_NAME = {NAME-> str}
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-NEWS_KEY = ''
-TWILIO_SID = ''
-TWILIO_AUTH = ''
+NEWS_KEY = os.environ.get('TWILIO_NEWS_KEY')
+TWILIO_SID = os.environ.get("TWILIO_SID')
+TWILIO_AUTH = os.environ.get("TWILIO_AUTH_TOKEN')
 
 stock_params = {'function': 'TIME_SERIES_DAILY', 'symbol': STOCK_NAME, 'apikey': STOCK_KEY}
 
