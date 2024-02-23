@@ -6,7 +6,7 @@ COMPANY_NAME = {NAME-> str}
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-NEWS_KEY = os.environ.get('TWILIO_NEWS_KEY')
+NEWS_KEY = os.environ.get('NEWS_API_KEY')
 TWILIO_SID = os.environ.get("TWILIO_SID')
 TWILIO_AUTH = os.environ.get("TWILIO_AUTH_TOKEN')
 
