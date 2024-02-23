@@ -81,17 +81,17 @@ class TwitterBot:
 #BOT LOGIC
 bot = TwitterBot()
 
-def botlogic():
+def botlogic(TwitterBot):
     try:
-        bot.fetch_city()
-        bot.get_current_temp()
-        difference = bot.get_temp_difference(bot.current_temp, bot.hist_temp)
+        TwitterBot.fetch_city()
+        TwitterBot.get_current_temp()
+        difference = TwitterBot.get_temp_difference(TwitterBot.current_temp, TwitterBot.hist_temp)
         if difference > 0:
-            tweet = f'It\'s {difference} degrees hotter today in {bot.city_name} than half a century ago. Yikes!!'
-            bot.post_tweet(tweet_body=tweet)
+            tweet = f'It\'s {difference} degrees hotter today in {TwitterBot.city_name} than half a century ago. Yikes!!'
+            TwitterBot.post_tweet(tweet_body=tweet)
         else:
             botlogic()
     except:
         raise tweepy.errors.TweepyException('Tweepy Error! Something went wrong')
 
-botlogic()
+botlogic(TwitterBot=bot)
