@@ -2,6 +2,7 @@ import tweepy, logging, json, random, requests, os
 from dotenv import load_dotenv
 
 logger = logging.getLogger()
+load_dotenv()
 
 ##CREATE BOT
 class TwitterBot:
