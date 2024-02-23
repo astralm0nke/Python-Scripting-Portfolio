@@ -93,3 +93,5 @@ def botlogic():
             botlogic()
     except:
         raise tweepy.errors.TweepyException('Tweepy Error! Something went wrong')
+
+botlogic()
