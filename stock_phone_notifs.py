@@ -1,5 +1,9 @@
 import requests, os
+from dotenv import load_dotenv
 from twilio.rest import Client
+
+load_dotenv()
+
 STOCK_NAME = {STOCK_NAME-> str}
 STOCK_KEY = os.environ.get('STOCKS_API_KEY')
 COMPANY_NAME = {NAME-> str}
