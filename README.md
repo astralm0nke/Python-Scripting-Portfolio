@@ -3,7 +3,9 @@ This is a collection of small-medium python projects I've worked on throughout t
 
 Data Science/Exploration:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/MultiVar_Regression_Boston_Housing_Market_70s
+
 APIs:
+
 GUIs:
 automation, bots, games:
 desktop tools, meme projects, etc.
