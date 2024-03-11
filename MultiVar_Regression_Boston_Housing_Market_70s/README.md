@@ -1,4 +1,4 @@
-My submision for the Day 81 capstone project for London App Brewery's 100 Days of Code on Udemy. I thought there was some interesting data exploration in here, so I decided to include it her ein my portfolio. Work is my own.
+My submision for the Day 81 capstone project for London App Brewery's 100 Days of Code on Udemy. I thought there was some interesting data exploration in here, so I decided to include it here in my portfolio. Work is my own.
 Summary of Data Exploration:
 Big takeaway is that performing a logarithmic transform on the price column improved the predictive model.
 Original LinReg r-squared: 
