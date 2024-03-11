@@ -4,6 +4,10 @@ This is a collection of small-medium python projects I've worked on throughout t
 Data Science/Exploration:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/MultiVar_Regression_Boston_Housing_Market_70s
 
+Games: https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Pong.py
+https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Snake_Game.py
+https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Morse-Code_Machine.py
+
 APIs:
 
 GUIs:
