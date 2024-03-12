@@ -8,7 +8,6 @@ https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/Space_Race_D
 Games:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Pong.py
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Snake_Game.py
-https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Morse-Code_Machine.py
 
 APIs:
 
@@ -18,4 +17,5 @@ https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/Local-Passwo
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/St0nks-Phone-Notifier-Bot.py
 
 GUI/Desktop Tools:
+https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Morse-Code_Machine.py
 meme projects, etc.
