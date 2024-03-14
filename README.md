@@ -19,4 +19,6 @@ https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/St0nks-Phone
 
 GUI/Desktop Tools:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Morse-Code_Machine.py
-meme projects, etc.
+
+Memes:
+
