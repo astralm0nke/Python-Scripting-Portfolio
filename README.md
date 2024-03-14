@@ -8,6 +8,7 @@ https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/Space_Race_D
 Games:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Pong.py
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Snake_Game.py
+https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Desktop_Tic_Tac_Toe.py
 
 APIs:
 
