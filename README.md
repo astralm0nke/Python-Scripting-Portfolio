@@ -21,4 +21,5 @@ GUI/Desktop Tools:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Morse-Code_Machine.py
 https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/pomodoro-method-deskapp
 
-Memes:
+Fun:
+https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/DAMIEN_HIRST_HEX.py
