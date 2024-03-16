@@ -55,7 +55,7 @@ class PriceBot:
                 message = client.messages.create(
                 body = message,
                 from_ = {self.TWILIO_PHONE},
-                #to = {self.TO_NUMBER->str}
+                to = {self.TO_NUMBER->str}
                 )
             else:
                 message = f'Hey! It doesn\'t look like your wishlist course {self.course_name} is on sale yet. I\'ll keep checking for you :)'
@@ -63,7 +63,7 @@ class PriceBot:
                 message = client.messages.create(
                 body = message,
                 from_ = {self.TWILIO_PHONE},
-                #to = {self.TO_NUMBER->str}
+                to = {self.TO_NUMBER->str}
                 )
 
 pricebot = PriceBot
