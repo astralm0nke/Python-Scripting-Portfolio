@@ -12,6 +12,7 @@ https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Desktop_Tic_
 
 APIs:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Udemy_Course_Price-Tracker_Bot
+https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/Playlist-From-Past
 
 Automation:
 https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/ClimateTwitterBot
