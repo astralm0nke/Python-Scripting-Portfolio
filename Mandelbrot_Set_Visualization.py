@@ -1,4 +1,4 @@
-## Mandelbrot Set Visualization
+## Mandelbrot Set Visualization in PyGame
 # Mandelbrot Set Iterative Formula: Z(n+1) = Z(n)^2 + C, where C=ai+b
 # Zn starts at Z0 = 0
 import pygame as pg
