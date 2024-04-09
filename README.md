@@ -18,6 +18,7 @@ Automation:
 + https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/ClimateTwitterBot
 + https://github.com/astralm0nke/Python-Scripting-Portfolio/tree/main/Local-Password-Manager
 + https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/St0nks-Phone-Notifier-Bot.py
++ https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Udemy_Course_Price-Tracker_Bot
 
 GUI/Desktop Tools:
 + https://github.com/astralm0nke/Python-Scripting-Portfolio/blob/main/Morse-Code_Machine.py
