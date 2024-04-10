@@ -23,7 +23,7 @@ zoom_level = 1.0
 center_x = 0.0
 center_y = 0.0
 
-# Colormap for coloring set
+## ----------------Colormap for coloring set---------------- ##
 def colormap(iteration, max_iteration):
 # Neon Color Scheme
     r = min(abs(int(225*np.sin(0.1*iteration))), 225)
@@ -31,6 +31,7 @@ def colormap(iteration, max_iteration):
     b = min(abs(int(225*np.sin(0.3*iteration))), 225)
     return (r, g, b)
 
+## ----------------Mandelbrot Set Function---------------- ##
 # Performs set iteration at each pixel. x, y represent real, i parts of complex number. Iteration tracks how fast seq grows
 def calculateMandelbrot(xi, yi, width, height):
     for x0 in range(xi, width):
